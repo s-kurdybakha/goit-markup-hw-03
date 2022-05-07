@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6,p {
 }
 
 .container {
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     width: 1200px;
 
     padding-left: 15px;
